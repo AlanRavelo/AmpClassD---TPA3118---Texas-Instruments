@@ -9,7 +9,7 @@
 
 El TPA3118D2 es un circuito integrado de Texas Instruments que se utiliza como amplificador de audio de clase D. Este amplificador utiliza una técnica de modulación de ancho de pulso (PWM) para lograr una alta eficiencia en la amplificación de la señal de audio.
 
-Cuenta con dos canales de amplificación de audio que pueden manejar una carga de altavoz de hasta 50W por canal, con una eficiencia de hasta el 90%. Además, el circuito integrado tiene una amplia gama de voltaje de entrada, lo que lo hace adecuado para diversas aplicaciones de audio.
+Cuenta con dos canales de amplificación de audio que pueden manejar una carga de altavoz de hasta 30W por canal, con una eficiencia de hasta el 90%. Además, el circuito integrado tiene una amplia gama de voltaje de entrada, lo que lo hace adecuado para diversas aplicaciones de audio.
 
 Posee una serie de características de protección, como protección contra cortocircuitos y sobrecalentamiento, lo que lo hace seguro y confiable en su operación. También cuenta con una función de ganancia seleccionable, lo que permite ajustar la ganancia de amplificación de acuerdo a la aplicación.
 
