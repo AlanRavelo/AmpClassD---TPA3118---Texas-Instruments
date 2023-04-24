@@ -25,15 +25,7 @@ Altavoces o sistema de sonido
 Fuente de alimentación
 Instrumentos de medición (multímetro, osciloscopio, etc.)
 
-# Progreso del Proyecto
-Actualmente, estamos en la etapa de diseño del circuito integrado. Hemos seleccionado los componentes necesarios y estamos trabajando en el diseño del esquemático y la placa de circuito impreso utilizando software de diseño de circuitos.
 
-# Contribuir al Proyecto
-Si estás interesado en contribuir al proyecto, ¡nos encantaría tener tu ayuda! Puedes contribuir al proyecto de las siguientes maneras:
 
-Proporcionando sugerencias de diseño o mejoras para el circuito integrado.
-Ayudando con la construcción y prueba del circuito integrado.
-Compartiendo conocimientos y recursos relevantes sobre el TPA3118D2 y los amplificadores de clase D en general.
 
-# Informe Técnico
-Una vez que hayamos completado el diseño y la construcción del circuito integrado, publicaremos un informe técnico detallado que describa el proceso de diseño, los resultados de prueba y cualquier otra información relevante sobre el proyecto. ¡Estén atentos para actualizaciones!
+
