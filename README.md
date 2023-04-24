@@ -5,27 +5,15 @@
 
 ![TPA3118D2_prototipo_20230210](https://user-images.githubusercontent.com/88397949/219953369-84a4f688-250c-485a-a901-abb3ea99bb6d.png)
 
-# Proyecto de Circuito Integrado TPA3118D2
-Este proyecto tiene como objetivo diseñar y construir un amplificador de audio utilizando el TPA3118D2, un amplificador de clase D de alta eficiencia con control de volumen digital. El circuito se utilizará para amplificar señales de audio de baja potencia para su uso en altavoces y sistemas de sonido.
+# TPA3118D2
 
-# Descripción del Circuito Integrado TPA3118D2
-El TPA3118D2 es un amplificador de clase D de alta eficiencia que puede operar con una amplia variedad de entradas de señal de audio y voltajes de alimentación. El dispositivo incluye un control de volumen digital y una función de apagado automático para mejorar la eficiencia energética.
+El TPA3118D2 es un circuito integrado de Texas Instruments que se utiliza como amplificador de audio de clase D. Este amplificador utiliza una técnica de modulación de ancho de pulso (PWM) para lograr una alta eficiencia en la amplificación de la señal de audio.
 
-# Objetivos del Proyecto
-Los objetivos de este proyecto son:
+Cuenta con dos canales de amplificación de audio que pueden manejar una carga de altavoz de hasta 50W por canal, con una eficiencia de hasta el 90%. Además, el circuito integrado tiene una amplia gama de voltaje de entrada, lo que lo hace adecuado para diversas aplicaciones de audio.
 
-Diseñar un circuito integrado utilizando el TPA3118D2 que pueda amplificar señales de audio de baja potencia y controlar el volumen de salida digitalmente.
-Construir y probar el circuito integrado para verificar su funcionamiento y eficiencia.
-Documentar el proceso de diseño y construcción del circuito integrado en un informe técnico.
-Materiales Necesarios
-Circuito integrado TPA3118D2
-Componentes electrónicos adicionales (resistencias, condensadores, etc.)
-Placa de circuito impreso
-Altavoces o sistema de sonido
-Fuente de alimentación
-Instrumentos de medición (multímetro, osciloscopio, etc.)
+Posee una serie de características de protección, como protección contra cortocircuitos y sobrecalentamiento, lo que lo hace seguro y confiable en su operación. También cuenta con una función de ganancia seleccionable, lo que permite ajustar la ganancia de amplificación de acuerdo a la aplicación.
 
-
+Su uso es muy popular en aplicaciones de audio de alta calidad, como sistemas de cine en casa, sistemas de audio de alta fidelidad y sistemas de sonido de automóviles, debido a su alta eficiencia, calidad de sonido y facilidad de uso.
 
 
 
